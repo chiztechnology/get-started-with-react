@@ -16,6 +16,10 @@ module.exports = {
     "plugins": [
         "react"
     ],
+
     "rules": {
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"]
     }
+
 }
